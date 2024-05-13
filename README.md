@@ -1,4 +1,4 @@
-# AtechCrud
+# AngularCrud
 
 Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) versão 17.3.5. É um CRUD básico para demonstração.
 
