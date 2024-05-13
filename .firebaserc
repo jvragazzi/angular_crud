@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "crud-user-jvragazzi": {
+      "hosting": {
+        "atech-crud": [
+          "crud-user-jvragazzi"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "crud-user-jvragazzi"
+  }
+}
